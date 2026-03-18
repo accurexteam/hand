@@ -1,0 +1,5 @@
+{
+  "name": "HoloHand Control",
+  "description": "A futuristic hand gesture control system using a webcam for real-time interaction with 3D/2D objects.",
+  "requestFramePermissions": ["camera"]
+}
